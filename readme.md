@@ -1,5 +1,3 @@
-HMRC pre-interview programming test.
-
 API of order checkout calculators is defined in **OrderCheckoutCalculator**.
 There are 3 implementaionts provided:
 * **SimpleOrderCheckoutCalculator** - this one is just summing prices
