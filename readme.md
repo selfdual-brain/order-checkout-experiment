@@ -1,4 +1,6 @@
-API of order checkout calculators is defined in **OrderCheckoutCalculator**.
+Order checkout calculator implementation (proof of concept).
+
+API is defined in **OrderCheckoutCalculator** trait.
 There are 3 implementaionts provided:
 * **SimpleOrderCheckoutCalculator** - this one is just summing prices
 * **BonusItemsAwareCalculator** - this one supports simple dicounts support
